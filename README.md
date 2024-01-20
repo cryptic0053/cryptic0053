@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Anirban Argha</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cryptic0053&label=Profile%20views&color=0e75b6&style=flat" alt="cryptic0053" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cryptic0053" alt="cryptic0053" /></a> </p>
-
 - 📫 How to reach me **anirbanargha0053@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/Anirban Ghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anirban ghosh" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100011839549718&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anirban ghosh" height="30" width="40" /></a>
 <a href="https://instagram.com/_the__cryptic_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_the__cryptic_" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/cryptic00053" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="cryptic00053" height="30" width="40" /></a>
 <a href="https://discord.gg/argha7568" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="argha7568" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/Anirban Argha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirban argha" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anirban-argha-4a20b7278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirban argha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
