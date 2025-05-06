@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anirban Argha</h1>
-<p align="center">A passionate Computer Science student from KUET, interested in Web Development, Problem Solving, and Open Source.</p>
+
+<p align="center">
+  A passionate Computer Science student from KUET, interested in Web Development, Problem Solving, and Open Source.
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cryptic0053&label=Profile%20views&color=0e75b6&style=flat" alt="cryptic0053" />
@@ -7,31 +10,32 @@
 
 ---
 
-### 📫 How to reach me
-- Email: **anirbanargha0053@gmail.com**
+## 📫 How to reach me
+
+- ✉️ Email: **anirbanargha0053@gmail.com**
 
 ---
 
-### 🌐 Connect with me
+## 🌐 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/anirban-argha-4a20b7278/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/anirban-argha-4a20b7278/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100011839549718" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  <a href="https://facebook.com/profile.php?id=100011839549718">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://instagram.com/_the__cryptic_" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  <a href="https://instagram.com/_the__cryptic_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://discord.com/users/argha7568" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+  <a href="https://discord.com/users/argha7568">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
 ---
 
-### 💻 Languages and Tools
+## 💻 Languages and Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -48,24 +52,24 @@
 
 ---
 
-### 🧩 GitHub Stats
+## 🧩 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cryptic0053&show_icons=true&theme=dark" alt="cryptic0053" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cryptic0053&show_icons=true&theme=dark&hide=issues,contribs" alt="cryptic0053 Stats" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptic0053&layout=compact&theme=dark" alt="cryptic0053" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptic0053&layout=compact&theme=dark&langs_count=6&hide_progress=true" alt="Top Languages" />
 </p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=cryptic0053&theme=dark" alt="GitHub Streak" />
 </p>
 
-
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cryptic0053&theme=gruvbox&no-frame=true&row=1&&margin-w=10&margin-h=15" alt="github trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=cryptic0053&theme=gruvbox&no-frame=true&row=1&margin-w=10&margin-h=15" alt="GitHub Trophies" />
 </p>
-
----
