@@ -55,13 +55,11 @@
 ## 🧩 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cryptic0053&show_icons=true&theme=dark&hide=issues,contribs" alt="cryptic0053 Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cryptic0053&show_icons=true&theme=dark" alt="cryptic0053" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptic0053&layout=compact&theme=dark&langs_count=6&hide_progress=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptic0053&layout=compact&theme=dark" alt="cryptic0053" />
 </p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=cryptic0053&theme=dark" alt="GitHub Streak" />
 </p>
