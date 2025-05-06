@@ -56,8 +56,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptic0053&layout=compact&theme=dark" alt="cryptic0053" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cryptic0053&theme=dark" alt="cryptic0053" />
+  <img src="https://streak-stats.demolab.com?user=cryptic0053&theme=dark" alt="GitHub Streak" />
 </p>
+
 
 ---
 
