@@ -51,11 +51,11 @@ Here are some of my most robust projects, showcasing **Full-Stack Development** 
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cryptic0053&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptic0053&layout=compact&theme=tokyonight"/>
-</div>
 
-<div align="center">
-  <br>
-  <img src="https://streak-stats.demolab.com?user=cryptic0053&theme=tokyonight" alt="GitHub Streak" />
+[![Anirban's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cryptic0053&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/cryptic0053)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cryptic0053&layout=compact&theme=tokyonight)](https://github.com/cryptic0053)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=cryptic0053&theme=tokyonight)](https://git.io/streak-stats)
+
 </div>
