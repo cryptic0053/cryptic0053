@@ -57,6 +57,4 @@
   <i>Fundamental IT Engineer (FE), ITEE Level 2 — Bangladesh Computer Council, April 2026</i>
 </p>
 
-<p align="center">
-  <a href="https://portfolio-cryptic0053s-projects.vercel.app"><b>portfolio-cryptic0053s-projects.vercel.app</b></a>
-</p>
+
