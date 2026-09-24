@@ -53,8 +53,6 @@
 
 ---
 
-<p align="center">
-  <i>Fundamental IT Engineer (FE), ITEE Level 2 — Bangladesh Computer Council, April 2026</i>
-</p>
+
 
 
